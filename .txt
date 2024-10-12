@@ -2,10 +2,20 @@ Git - version control system, that works with collaborations tools like github, 
 
 git learn 20% and learn 80% while working.
 
+
+SETUP
+
+git config --global user.name “[firstname lastname]”
+
+git config --global user.email "[valid email address]"
+
+INIT
+
 git init - it generate empty repo and name it "master"
 
-
 git init  -b git
+
+STAGING 
 
 git add [filename.fileExtension]
 
@@ -20,8 +30,7 @@ git status - show the status of your changes to the repo locally
 
 .gitignore file 
 
-
-branching
+BRANCHING && MERGING
 
 git branch [branch] => git checkout [branchName]
 
