@@ -23,7 +23,7 @@ git status - show the status of your changes to the repo locally
 
 branching
 
-git branch [branch] => git checkout [brancName]
+git branch [branch] => git checkout [branchName]
 
 
 git checkout -b [branchName] => creates a new branch and switch to it
@@ -31,4 +31,4 @@ git checkout -b [branchName] => creates a new branch and switch to it
 every branch has a unique id, and every commit has a unique identifier
 
 
-git merge  [branchN:ame] => merge the branch into the current branch
+git merge  [branchName] => merge the branch into the current branch
