@@ -1,13 +1,13 @@
-Git - version control system, that works with collaborations tools like github, gitbucket etc
+Git - version control system, that works with collaborations tools like github, gitBucket etc
 
 git learn 20% and learn 80% while working.
 
-git init - it genrerate empty repo and name it "master"
+git init - it generate empty repo and name it "master"
 
 
 git init  -b git
 
-git add [filename.fileextension]
+git add [filename.fileExtension]
 
 git add . = adds everything in the directory
 
