@@ -32,3 +32,21 @@ every branch has a unique id, and every commit has a unique identifier
 
 
 git merge  [branchName] => merge the branch into the current branch
+
+
+
+creating new repo on github
+https://github.com/new
+
+
+git remote add origin - url of the repo
+
+git push -u origin [branchName]
+
+
+git pull origin [branchName]
+
+git pull 
+
+
+git clone [repoUrl]
