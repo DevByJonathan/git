@@ -9,10 +9,8 @@
 3. Run the following command:
 
    ```
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/your-username/git.git
    ```
-
-   Replace `your-username/your-repository` with the actual repository path.
 
 ### How to Contribute
 
@@ -20,7 +18,7 @@
 2. Clone your fork:
 
    ```
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/your-username/git.git
    ```
 
 3. Create a new branch:
