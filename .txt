@@ -27,3 +27,5 @@ git branch [branch] => git checkout [branchname]
 
 
 git checkout -b [branchname] => creates a new branch and switch to it
+
+every branch has a unique id, and every commit has a unique identifier
