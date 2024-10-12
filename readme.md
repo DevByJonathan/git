@@ -9,7 +9,7 @@
 3. Run the following command:
 
    ```
-   git clone https://github.com/your-username/git.git
+   git clone https://github.com/victorola-coder/git.git
    ```
 
 ### How to Contribute
@@ -18,7 +18,7 @@
 2. Clone your fork:
 
    ```
-   git clone https://github.com/your-username/git.git
+   git clone https://github.com/victorola-coder/git.git
    ```
 
 3. Create a new branch:
