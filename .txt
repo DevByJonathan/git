@@ -19,3 +19,16 @@ git status - show the status of your changes to the repo locally
 
 
 .gitignore file 
+
+
+branching
+
+git branch [branch] => git checkout [branchname]
+
+
+git checkout -b [branchname] => creates a new branch and switch to it
+
+every branch has a unique id, and every commit has a unique identifier
+
+
+git merge  [branchname] => merge the branch into the current branch
