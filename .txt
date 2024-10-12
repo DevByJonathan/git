@@ -16,3 +16,6 @@ git commit -m "created html files"
 git commit -am "updated txt files"
 
 git status - show the status of your changes to the repo locally
+
+
+.gitignore file 
