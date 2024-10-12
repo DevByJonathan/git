@@ -10,3 +10,7 @@ git init  -b git
 git add [filename.fileextension]
 
 git add . = adds everything in the directory
+
+git commit -m "created html files"
+
+git commit -am "updated txt files"
