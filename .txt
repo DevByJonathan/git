@@ -50,3 +50,5 @@ git pull
 
 
 git clone [repoUrl]
+
+git rebase - pull, update, check for conflicts and try to fix
